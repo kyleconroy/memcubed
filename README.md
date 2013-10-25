@@ -1,4 +1,4 @@
-![logo](https://github.com/kyleconroy/blob/master/header.png)
+![logo](https://github.com/kyleconroy/memcubed/raw/master/header.png)
 
 Simple memory game based on Simon. [Play it online!](http://kyleconroy.github.io/memcubed)
 
